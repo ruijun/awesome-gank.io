@@ -1,5 +1,5 @@
 # awesome-gank.io
-> The repository is  used to collect the awesome code of [gank.io](http://gank.io/):heart_eyes:. 
+> The repository is  used to collect the awesome code of [gank.io](http://gank.io/):heart_eyes:.
 
 ## Android
 **Meizhi**
@@ -72,13 +72,13 @@
 
 **Meizi**
 * Project Link：https://github.com/SparkYuan/Meizi
-* Developer：[@SparkYuan](https://github.com/SparkYuan/Meizi)
+* Developer：[@SparkYuan](https://github.com/SparkYuan)
 
 <img src="/img/gank_android20.png" width="270" height="486"/>  <img src="/img/gank_android21.png" width="270" height="486"/>
 
 **GankLock**
 * Project Link：https://github.com/wavever/GankLock
-* Developer：[@wavever](https://github.com/wavever/GankLock)
+* Developer：[@wavever](https://github.com/waveve)
 
 <img src="/img/gank_android22.jpeg" />  <img src="/img/gank_android23.jpeg" />
 
@@ -109,7 +109,7 @@
 
 **Gank.lu(Swift)**
 * Project Link：https://github.com/Panl/Gank.lu
-* Developer：[@Panl](https://github.com/Panl/Gank.lu)
+* Developer：[@Panl](https://github.com/Panl)
 
 <img src="/img/gank_ios31.png" />
 
@@ -121,38 +121,38 @@
 
 **iOSGank(Swift)**
 * Project Link：https://github.com/teddylong/iOSGank
-* Developer：[@teddylong](https://github.com/teddylong/iOSGank)
+* Developer：[@teddylong](https://github.com/teddylong)
 
 <img src="/img/gank_ios43.jpeg" /> <img src="/img/gank_ios44.jpeg" />
 
 **beauties(Swift)**
 * Project Link：https://github.com/liushuaikobe/beauties
-* Developer：[@liushuaikobe](https://github.com/liushuaikobe/beauties)
+* Developer：[@liushuaikobe](https://github.com/liushuaikobe)
 
 <img src="/img/gank_ios33.png" width="700" height="500"/>
 
 **GankMM_iOS(Objective-C)**
 * Project Link：https://github.com/maning0303/GankMM_iOS
-* Developer：[@maning0303](https://github.com/maning0303/GankMM_iOS)
+* Developer：[@maning0303](https://github.com/maning0303)
 
 <img src="/img/gank_ios40.png" width="700" height="400"/>
 
 ## React-Native
 **React-Native-Gank**
 * Project Link：https://github.com/Bob1993/React-Native-Gank
-* Developer：[@Bob1993](https://github.com/Bob1993/React-Native-Gank)
+* Developer：[@Bob1993](https://github.com/Bob1993)
 
 <img src="/img/gank_rn34.jpeg" width="300" height="486"/> <img src="/img/gank_rn35.jpeg" width="300" height="486"/>
 
 **GankCamp-React-Native**
 * Project Link：https://github.com/iwgang/GankCamp-React-Native
-* Developer：[@iwgang](https://github.com/iwgang/GankCamp-React-Native)
+* Developer：[@iwgang](https://github.com/iwgang)
 
 <img src="/img/gank_rn36.jpeg" width="300" height="486"/> <img src="/img/gank_rn37.jpeg" width="300" height="486"/>
 
 **rn_rank**
 * Project Link：https://github.com/zhongjie-chen/rn_rank
-* Developer：[@zhongjie-chen](https://github.com/zhongjie-chen/rn_rank)
+* Developer：[@zhongjie-chen](https://github.com/zhongjie-chen)
 
 <img src="/img/gank_rn38.png" width="300" height="486"/> <img src="/img/gank_rn39.png" width="300" height="486"/>
 
