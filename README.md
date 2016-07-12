@@ -2,7 +2,7 @@
 > The repository is  used to collect the source code of [gank.io](http://gank.io/):heart_eyes::heart_eyes:
 
 ## Android 
-* Project Name：妹纸.gank.io
+**妹纸.gank.io**
 * Project Link：https://github.com/drakeet/Meizhi
 * Author：[@drakeet](https://github.com/drakeet)
 * Screenshot：
