@@ -1,5 +1,5 @@
 # awesome-gank.io
-> The repository is  used to collect the awesome code of [gank.io](http://gank.io/):heart_eyes:.
+> The repository is  used to collect the awesome code of [gank.io](http://gank.io/):heart_eyes:.Talk is cheap,show you the code:smiley:.
 
 # Catalog
 * [Android](#Android)
