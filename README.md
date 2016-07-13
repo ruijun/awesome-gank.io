@@ -7,7 +7,7 @@
 * [React-Native](#React-Native)
 * [Other](#Other)
 
-## <span id = "Android">Android</span>
+## <A NAME="Android"></A>Android
 **Meizhi**
 * Project Link：https://github.com/drakeet/Meizhi
 * Developer：[@drakeet](https://github.com/drakeet)
@@ -106,7 +106,7 @@
 
 <img src="/img/gank_android27.png" width="300" height="486"/> <img src="/img/gank_android28.png" width="300" height="486"/>
 
-## <span id = "iOS">iOS</span>
+## <A NAME="iOS"></A>iOS
 **GanHuoCode(Swift)**
 * Project Link：https://github.com/tripleCC/GanHuoCode
 * Developer：[@tripleCC](https://github.com/tripleCC)
@@ -143,7 +143,7 @@
 
 <img src="/img/gank_ios40.png" width="700" height="400"/>
 
-## <span id = "React-Native">React-Native</span>
+## <A NAME="React-Native"></A>React-Native
 **React-Native-Gank**
 * Project Link：https://github.com/Bob1993/React-Native-Gank
 * Developer：[@Bob1993](https://github.com/Bob1993)
@@ -162,18 +162,18 @@
 
 <img src="/img/gank_rn38.png" width="300" height="486"/> <img src="/img/gank_rn39.png" width="300" height="486"/>
 
-## <span id = "Other">Other</span>
+## <A NAME="Other"></A>Other
 **Gank-Alfred-Workflow**
 * Project Link：https://github.com/hujiaweibujidao/Gank-Alfred-Workflow
 * Developer：[@hujiaweibujidao](https://github.com/hujiaweibujidao)
 
 <img src="/img/gank_other45.png" width="600" height="400"/>
 
-## About
+## <A NAME="About"></A>About
 * Email：lingdududu@163.com
 * Blog：http://blog.liangruijun.com/
 
-## License
+## <A NAME="License"></A>License
 ```
 Copyright (C) 2016 ruijun <lingdududu@163.com>
 
