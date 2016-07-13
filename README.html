@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8" />
+      <title>README</title>
+      <style>.markdown-preview:not([data-use-github-style]) { padding: 2em; font-size: 1.2em; color: rgb(56, 58, 66); overflow: auto; background-color: rgb(250, 250, 250); }
+.markdown-preview:not([data-use-github-style]) > :first-child { margin-top: 0px; }
+.markdown-preview:not([data-use-github-style]) h1, .markdown-preview:not([data-use-github-style]) h2, .markdown-preview:not([data-use-github-style]) h3, .markdown-preview:not([data-use-github-style]) h4, .markdown-preview:not([data-use-github-style]) h5, .markdown-preview:not([data-use-github-style]) h6 { line-height: 1.2; margin-top: 1.5em; margin-bottom: 0.5em; color: rgb(0, 0, 0); }
+.markdown-preview:not([data-use-github-style]) h1 { font-size: 2.4em; font-weight: 300; }
+.markdown-preview:not([data-use-github-style]) h2 { font-size: 1.8em; font-weight: 400; }
+.markdown-preview:not([data-use-github-style]) h3 { font-size: 1.5em; font-weight: 500; }
+.markdown-preview:not([data-use-github-style]) h4 { font-size: 1.2em; font-weight: 600; }
+.markdown-preview:not([data-use-github-style]) h5 { font-size: 1.1em; font-weight: 600; }
+.markdown-preview:not([data-use-github-style]) h6 { font-size: 1em; font-weight: 600; }
+.markdown-preview:not([data-use-github-style]) strong { color: rgb(0, 0, 0); }
+.markdown-preview:not([data-use-github-style]) del { color: rgb(94, 97, 110); }
+.markdown-preview:not([data-use-github-style]) a, .markdown-preview:not([data-use-github-style]) a code { color: rgb(82, 111, 255); }
+.markdown-preview:not([data-use-github-style]) img { max-width: 100%; }
+.markdown-preview:not([data-use-github-style]) > p { margin-top: 0px; margin-bottom: 1.5em; }
+.markdown-preview:not([data-use-github-style]) > ul, .markdown-preview:not([data-use-github-style]) > ol { margin-bottom: 1.5em; }
+.markdown-preview:not([data-use-github-style]) blockquote { margin: 1.5em 0px; font-size: inherit; color: rgb(94, 97, 110); border-color: rgb(209, 209, 210); border-width: 4px; }
+.markdown-preview:not([data-use-github-style]) hr { margin: 3em 0px; border-top-width: 2px; border-top-style: dashed; border-top-color: rgb(209, 209, 210); background: none; }
+.markdown-preview:not([data-use-github-style]) table { margin: 1.5em 0px; }
+.markdown-preview:not([data-use-github-style]) th { color: rgb(0, 0, 0); }
+.markdown-preview:not([data-use-github-style]) th, .markdown-preview:not([data-use-github-style]) td { padding: 0.66em 1em; border: 1px solid rgb(209, 209, 210); }
+.markdown-preview:not([data-use-github-style]) code { color: rgb(0, 0, 0); background-color: rgb(234, 234, 235); }
+.markdown-preview:not([data-use-github-style]) pre.editor-colors { margin: 1.5em 0px; padding: 1em; font-size: 0.92em; border-radius: 3px; background-color: rgb(240, 240, 240); }
+.markdown-preview:not([data-use-github-style]) kbd { color: rgb(0, 0, 0); border-width: 1px 1px 2px; border-style: solid; border-color: rgb(209, 209, 210) rgb(209, 209, 210) rgb(193, 193, 194); background-color: rgb(234, 234, 235); }
+.markdown-preview[data-use-github-style] { font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif; line-height: 1.6; word-wrap: break-word; padding: 30px; font-size: 16px; color: rgb(51, 51, 51); overflow: scroll; background-color: rgb(255, 255, 255); }
+.markdown-preview[data-use-github-style] > :first-child { margin-top: 0px !important; }
+.markdown-preview[data-use-github-style] > :last-child { margin-bottom: 0px !important; }
+.markdown-preview[data-use-github-style] a:not([href]) { color: inherit; text-decoration: none; }
+.markdown-preview[data-use-github-style] .absent { color: rgb(204, 0, 0); }
+.markdown-preview[data-use-github-style] .anchor { position: absolute; top: 0px; left: 0px; display: block; padding-right: 6px; padding-left: 30px; margin-left: -30px; }
+.markdown-preview[data-use-github-style] .anchor:focus { outline: none; }
+.markdown-preview[data-use-github-style] h1, .markdown-preview[data-use-github-style] h2, .markdown-preview[data-use-github-style] h3, .markdown-preview[data-use-github-style] h4, .markdown-preview[data-use-github-style] h5, .markdown-preview[data-use-github-style] h6 { position: relative; margin-top: 1em; margin-bottom: 16px; font-weight: bold; line-height: 1.4; }
+.markdown-preview[data-use-github-style] h1 .octicon-link, .markdown-preview[data-use-github-style] h2 .octicon-link, .markdown-preview[data-use-github-style] h3 .octicon-link, .markdown-preview[data-use-github-style] h4 .octicon-link, .markdown-preview[data-use-github-style] h5 .octicon-link, .markdown-preview[data-use-github-style] h6 .octicon-link { display: none; color: rgb(0, 0, 0); vertical-align: middle; }
+.markdown-preview[data-use-github-style] h1:hover .anchor, .markdown-preview[data-use-github-style] h2:hover .anchor, .markdown-preview[data-use-github-style] h3:hover .anchor, .markdown-preview[data-use-github-style] h4:hover .anchor, .markdown-preview[data-use-github-style] h5:hover .anchor, .markdown-preview[data-use-github-style] h6:hover .anchor { padding-left: 8px; margin-left: -30px; text-decoration: none; }
+.markdown-preview[data-use-github-style] h1:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h2:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h3:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h4:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h5:hover .anchor .octicon-link, .markdown-preview[data-use-github-style] h6:hover .anchor .octicon-link { display: inline-block; }
+.markdown-preview[data-use-github-style] h1 tt, .markdown-preview[data-use-github-style] h2 tt, .markdown-preview[data-use-github-style] h3 tt, .markdown-preview[data-use-github-style] h4 tt, .markdown-preview[data-use-github-style] h5 tt, .markdown-preview[data-use-github-style] h6 tt, .markdown-preview[data-use-github-style] h1 code, .markdown-preview[data-use-github-style] h2 code, .markdown-preview[data-use-github-style] h3 code, .markdown-preview[data-use-github-style] h4 code, .markdown-preview[data-use-github-style] h5 code, .markdown-preview[data-use-github-style] h6 code { font-size: inherit; }
+.markdown-preview[data-use-github-style] h1 { padding-bottom: 0.3em; font-size: 2.25em; line-height: 1.2; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(238, 238, 238); }
+.markdown-preview[data-use-github-style] h1 .anchor { line-height: 1; }
+.markdown-preview[data-use-github-style] h2 { padding-bottom: 0.3em; font-size: 1.75em; line-height: 1.225; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: rgb(238, 238, 238); }
+.markdown-preview[data-use-github-style] h2 .anchor { line-height: 1; }
+.markdown-preview[data-use-github-style] h3 { font-size: 1.5em; line-height: 1.43; }
+.markdown-preview[data-use-github-style] h3 .anchor { line-height: 1.2; }
+.markdown-preview[data-use-github-style] h4 { font-size: 1.25em; }
+.markdown-preview[data-use-github-style] h4 .anchor { line-height: 1.2; }
+.markdown-preview[data-use-github-style] h5 { font-size: 1em; }
+.markdown-preview[data-use-github-style] h5 .anchor { line-height: 1.1; }
+.markdown-preview[data-use-github-style] h6 { font-size: 1em; color: rgb(119, 119, 119); }
+.markdown-preview[data-use-github-style] h6 .anchor { line-height: 1.1; }
+.markdown-preview[data-use-github-style] p, .markdown-preview[data-use-github-style] blockquote, .markdown-preview[data-use-github-style] ul, .markdown-preview[data-use-github-style] ol, .markdown-preview[data-use-github-style] dl, .markdown-preview[data-use-github-style] table, .markdown-preview[data-use-github-style] pre { margin-top: 0px; margin-bottom: 16px; }
+.markdown-preview[data-use-github-style] hr { height: 4px; padding: 0px; margin: 16px 0px; border: 0px none; background-color: rgb(231, 231, 231); }
+.markdown-preview[data-use-github-style] ul, .markdown-preview[data-use-github-style] ol { padding-left: 2em; }
+.markdown-preview[data-use-github-style] ul.no-list, .markdown-preview[data-use-github-style] ol.no-list { padding: 0px; list-style-type: none; }
+.markdown-preview[data-use-github-style] ul ul, .markdown-preview[data-use-github-style] ul ol, .markdown-preview[data-use-github-style] ol ol, .markdown-preview[data-use-github-style] ol ul { margin-top: 0px; margin-bottom: 0px; }
+.markdown-preview[data-use-github-style] li > p { margin-top: 16px; }
+.markdown-preview[data-use-github-style] dl { padding: 0px; }
+.markdown-preview[data-use-github-style] dl dt { padding: 0px; margin-top: 16px; font-size: 1em; font-style: italic; font-weight: bold; }
+.markdown-preview[data-use-github-style] dl dd { padding: 0px 16px; margin-bottom: 16px; }
+.markdown-preview[data-use-github-style] blockquote { padding: 0px 15px; color: rgb(119, 119, 119); border-left-width: 4px; border-left-style: solid; border-left-color: rgb(221, 221, 221); }
+.markdown-preview[data-use-github-style] blockquote > :first-child { margin-top: 0px; }
+.markdown-preview[data-use-github-style] blockquote > :last-child { margin-bottom: 0px; }
+.markdown-preview[data-use-github-style] table { display: block; width: 100%; overflow: auto; word-break: keep-all; }
+.markdown-preview[data-use-github-style] table th { font-weight: bold; }
+.markdown-preview[data-use-github-style] table th, .markdown-preview[data-use-github-style] table td { padding: 6px 13px; border: 1px solid rgb(221, 221, 221); }
+.markdown-preview[data-use-github-style] table tr { border-top-width: 1px; border-top-style: solid; border-top-color: rgb(204, 204, 204); background-color: rgb(255, 255, 255); }
+.markdown-preview[data-use-github-style] table tr:nth-child(2n) { background-color: rgb(248, 248, 248); }
+.markdown-preview[data-use-github-style] img { max-width: 100%; box-sizing: border-box; }
+.markdown-preview[data-use-github-style] .emoji { max-width: none; }
+.markdown-preview[data-use-github-style] span.frame { display: block; overflow: hidden; }
+.markdown-preview[data-use-github-style] span.frame > span { display: block; float: left; width: auto; padding: 7px; margin: 13px 0px 0px; overflow: hidden; border: 1px solid rgb(221, 221, 221); }
+.markdown-preview[data-use-github-style] span.frame span img { display: block; float: left; }
+.markdown-preview[data-use-github-style] span.frame span span { display: block; padding: 5px 0px 0px; clear: both; color: rgb(51, 51, 51); }
+.markdown-preview[data-use-github-style] span.align-center { display: block; overflow: hidden; clear: both; }
+.markdown-preview[data-use-github-style] span.align-center > span { display: block; margin: 13px auto 0px; overflow: hidden; text-align: center; }
+.markdown-preview[data-use-github-style] span.align-center span img { margin: 0px auto; text-align: center; }
+.markdown-preview[data-use-github-style] span.align-right { display: block; overflow: hidden; clear: both; }
+.markdown-preview[data-use-github-style] span.align-right > span { display: block; margin: 13px 0px 0px; overflow: hidden; text-align: right; }
+.markdown-preview[data-use-github-style] span.align-right span img { margin: 0px; text-align: right; }
+.markdown-preview[data-use-github-style] span.float-left { display: block; float: left; margin-right: 13px; overflow: hidden; }
+.markdown-preview[data-use-github-style] span.float-left span { margin: 13px 0px 0px; }
+.markdown-preview[data-use-github-style] span.float-right { display: block; float: right; margin-left: 13px; overflow: hidden; }
+.markdown-preview[data-use-github-style] span.float-right > span { display: block; margin: 13px auto 0px; overflow: hidden; text-align: right; }
+.markdown-preview[data-use-github-style] code, .markdown-preview[data-use-github-style] tt { padding: 0.2em 0px; margin: 0px; font-size: 85%; border-radius: 3px; background-color: rgba(0, 0, 0, 0.0392157); }
+.markdown-preview[data-use-github-style] code::before, .markdown-preview[data-use-github-style] tt::before, .markdown-preview[data-use-github-style] code::after, .markdown-preview[data-use-github-style] tt::after { letter-spacing: -0.2em; content: " "; }
+.markdown-preview[data-use-github-style] code br, .markdown-preview[data-use-github-style] tt br { display: none; }
+.markdown-preview[data-use-github-style] del code { text-decoration: inherit; }
+.markdown-preview[data-use-github-style] pre > code { padding: 0px; margin: 0px; font-size: 100%; word-break: normal; white-space: pre; border: 0px; background: transparent; }
+.markdown-preview[data-use-github-style] .highlight { margin-bottom: 16px; }
+.markdown-preview[data-use-github-style] .highlight pre, .markdown-preview[data-use-github-style] pre { padding: 16px; overflow: auto; font-size: 85%; line-height: 1.45; border-radius: 3px; background-color: rgb(247, 247, 247); }
+.markdown-preview[data-use-github-style] .highlight pre { margin-bottom: 0px; word-break: normal; }
+.markdown-preview[data-use-github-style] pre { word-wrap: normal; }
+.markdown-preview[data-use-github-style] pre code, .markdown-preview[data-use-github-style] pre tt { display: inline; max-width: initial; padding: 0px; margin: 0px; overflow: initial; line-height: inherit; word-wrap: normal; border: 0px; background-color: transparent; }
+.markdown-preview[data-use-github-style] pre code::before, .markdown-preview[data-use-github-style] pre tt::before, .markdown-preview[data-use-github-style] pre code::after, .markdown-preview[data-use-github-style] pre tt::after { content: normal; }
+.markdown-preview[data-use-github-style] kbd { display: inline-block; padding: 3px 5px; font-size: 11px; line-height: 10px; color: rgb(85, 85, 85); vertical-align: middle; border-style: solid; border-width: 1px; border-color: rgb(204, 204, 204) rgb(204, 204, 204) rgb(187, 187, 187); border-radius: 3px; box-shadow: rgb(187, 187, 187) 0px -1px 0px inset; background-color: rgb(252, 252, 252); }
+.markdown-preview[data-use-github-style] a { color: rgb(51, 122, 183); }
+.markdown-preview[data-use-github-style] code { color: inherit; }
+.markdown-preview[data-use-github-style] pre.editor-colors { padding: 0.8em 1em; margin-bottom: 1em; font-size: 0.85em; border-radius: 4px; overflow: auto; }
+.scrollbars-visible-always .markdown-preview pre.editor-colors::shadow .vertical-scrollbar, .scrollbars-visible-always .markdown-preview pre.editor-colors::shadow .horizontal-scrollbar { visibility: hidden; }
+.scrollbars-visible-always .markdown-preview pre.editor-colors:hover::shadow .vertical-scrollbar, .scrollbars-visible-always .markdown-preview pre.editor-colors:hover::shadow .horizontal-scrollbar { visibility: visible; }
+.markdown-preview { margin: 0px auto; max-width: 960px; }
+.markdown-themeable-pdf-page-break {
+  border-top: 2px dotted #0098ff;
+}
+.markdown-themeable-pdf-page-break span {
+  opacity: .35;
+}
+
+.bracket-matcher .region {
+  border-bottom: 1px dotted lime;
+  position: absolute;
+}
+
+.spell-check-misspelling .region {
+  border-bottom: 2px dotted rgba(255, 51, 51, 0.75);
+}
+
+pre.editor-colors,
+.host {
+  background-color: #fafafa;
+  color: #383a42;
+}
+pre.editor-colors .line.cursor-line,
+.host .line.cursor-line {
+  background-color: rgba(56, 58, 66, 0.04);
+}
+pre.editor-colors .invisible,
+.host .invisible {
+  color: #383a42;
+}
+pre.editor-colors .cursor,
+.host .cursor {
+  border-left: 2px solid #526fff;
+}
+pre.editor-colors .selection .region,
+.host .selection .region {
+  background-color: #ededed;
+}
+pre.editor-colors .bracket-matcher .region,
+.host .bracket-matcher .region {
+  border-bottom: 1px solid #526fff;
+  box-sizing: border-box;
+}
+pre.editor-colors .invisible-character,
+.host .invisible-character {
+  color: rgba(56, 58, 66, 0.2);
+}
+pre.editor-colors .indent-guide,
+.host .indent-guide {
+  color: rgba(56, 58, 66, 0.2);
+}
+pre.editor-colors .wrap-guide,
+.host .wrap-guide {
+  background-color: rgba(56, 58, 66, 0.2);
+}
+pre.editor-colors .gutter .line-number,
+.host .gutter .line-number {
+  color: #9d9d9f;
+  -webkit-font-smoothing: antialiased;
+}
+pre.editor-colors .gutter .line-number.cursor-line,
+.host .gutter .line-number.cursor-line {
+  color: #383a42;
+  background-color: #f2f2f2;
+}
+pre.editor-colors .gutter .line-number.cursor-line-no-selection,
+.host .gutter .line-number.cursor-line-no-selection {
+  background-color: transparent;
+}
+pre.editor-colors .gutter .line-number .icon-right,
+.host .gutter .line-number .icon-right {
+  color: #383a42;
+}
+pre.editor-colors .gutter:not(.git-diff-icon) .line-number.git-line-removed.git-line-removed::before,
+.host .gutter:not(.git-diff-icon) .line-number.git-line-removed.git-line-removed::before {
+  bottom: -3px;
+}
+pre.editor-colors .gutter:not(.git-diff-icon) .line-number.git-line-removed::after,
+.host .gutter:not(.git-diff-icon) .line-number.git-line-removed::after {
+  content: "";
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 25px;
+  border-bottom: 1px dotted rgba(255, 20, 20, 0.5);
+  pointer-events: none;
+}
+pre.editor-colors .gutter .line-number.folded,
+.host .gutter .line-number.folded,
+pre.editor-colors .gutter .line-number:after,
+.host .gutter .line-number:after,
+pre.editor-colors .fold-marker:after,
+.host .fold-marker:after {
+  color: #383a42;
+}
+.comment {
+  color: #a0a1a7;
+  font-style: italic;
+}
+.comment .markup.link {
+  color: #a0a1a7;
+}
+.entity.name.type {
+  color: #c18401;
+}
+.entity.other.inherited-class {
+  color: #50a14f;
+}
+.keyword {
+  color: #a626a4;
+}
+.keyword.control {
+  color: #a626a4;
+}
+.keyword.operator {
+  color: #383a42;
+}
+.keyword.other.special-method {
+  color: #4078f2;
+}
+.keyword.other.unit {
+  color: #986801;
+}
+.storage {
+  color: #a626a4;
+}
+.storage.type.annotation,
+.storage.type.primitive {
+  color: #a626a4;
+}
+.storage.modifier.package,
+.storage.modifier.import {
+  color: #383a42;
+}
+.constant {
+  color: #986801;
+}
+.constant.variable {
+  color: #986801;
+}
+.constant.character.escape {
+  color: #0184bc;
+}
+.constant.numeric {
+  color: #986801;
+}
+.constant.other.color {
+  color: #0184bc;
+}
+.constant.other.symbol {
+  color: #0184bc;
+}
+.variable {
+  color: #e45649;
+}
+.variable.interpolation {
+  color: #ca1243;
+}
+.variable.parameter {
+  color: #383a42;
+}
+.string {
+  color: #50a14f;
+}
+.string.regexp {
+  color: #0184bc;
+}
+.string.regexp .source.ruby.embedded {
+  color: #c18401;
+}
+.string.other.link {
+  color: #e45649;
+}
+.punctuation.definition.comment {
+  color: #a0a1a7;
+}
+.punctuation.definition.method-parameters,
+.punctuation.definition.function-parameters,
+.punctuation.definition.parameters,
+.punctuation.definition.separator,
+.punctuation.definition.seperator,
+.punctuation.definition.array {
+  color: #383a42;
+}
+.punctuation.definition.heading,
+.punctuation.definition.identity {
+  color: #4078f2;
+}
+.punctuation.definition.bold {
+  color: #c18401;
+  font-weight: bold;
+}
+.punctuation.definition.italic {
+  color: #a626a4;
+  font-style: italic;
+}
+.punctuation.section.embedded {
+  color: #ca1243;
+}
+.punctuation.section.method,
+.punctuation.section.class,
+.punctuation.section.inner-class {
+  color: #383a42;
+}
+.support.class {
+  color: #c18401;
+}
+.support.type {
+  color: #0184bc;
+}
+.support.function {
+  color: #0184bc;
+}
+.support.function.any-method {
+  color: #4078f2;
+}
+.entity.name.function {
+  color: #4078f2;
+}
+.entity.name.class,
+.entity.name.type.class {
+  color: #c18401;
+}
+.entity.name.section {
+  color: #4078f2;
+}
+.entity.name.tag {
+  color: #e45649;
+}
+.entity.other.attribute-name {
+  color: #986801;
+}
+.entity.other.attribute-name.id {
+  color: #4078f2;
+}
+.meta.class {
+  color: #c18401;
+}
+.meta.class.body {
+  color: #383a42;
+}
+.meta.method-call,
+.meta.method {
+  color: #383a42;
+}
+.meta.definition.variable {
+  color: #e45649;
+}
+.meta.link {
+  color: #986801;
+}
+.meta.require {
+  color: #4078f2;
+}
+.meta.selector {
+  color: #a626a4;
+}
+.meta.separator {
+  background-color: #373b41;
+  color: #383a42;
+}
+.meta.tag {
+  color: #383a42;
+}
+.underline {
+  text-decoration: underline;
+}
+.none {
+  color: #383a42;
+}
+.invalid.deprecated {
+  color: #000000 !important;
+  background-color: #f2a60d !important;
+}
+.invalid.illegal {
+  color: #ffffff !important;
+  background-color: #ff1414 !important;
+}
+.markup.bold {
+  color: #986801;
+  font-weight: bold;
+}
+.markup.changed {
+  color: #a626a4;
+}
+.markup.deleted {
+  color: #e45649;
+}
+.markup.italic {
+  color: #a626a4;
+  font-style: italic;
+}
+.markup.heading {
+  color: #e45649;
+}
+.markup.heading .punctuation.definition.heading {
+  color: #4078f2;
+}
+.markup.link {
+  color: #a626a4;
+}
+.markup.inserted {
+  color: #50a14f;
+}
+.markup.quote {
+  color: #986801;
+}
+.markup.raw {
+  color: #50a14f;
+}
+.source.cs .keyword.operator {
+  color: #a626a4;
+}
+.source.css .property-name,
+.source.css .property-value {
+  color: #696c77;
+}
+.source.css .property-name.support,
+.source.css .property-value.support {
+  color: #383a42;
+}
+.source.gfm .markup {
+  -webkit-font-smoothing: auto;
+}
+.source.gfm .link .entity {
+  color: #4078f2;
+}
+.source.ini .keyword.other.definition.ini {
+  color: #e45649;
+}
+.source.java .storage.modifier.import {
+  color: #c18401;
+}
+.source.java .storage.type {
+  color: #c18401;
+}
+.source.java-properties .meta.key-pair {
+  color: #e45649;
+}
+.source.java-properties .meta.key-pair > .punctuation {
+  color: #383a42;
+}
+.source.js .keyword.operator {
+  color: #0184bc;
+}
+.source.js .keyword.operator.delete,
+.source.js .keyword.operator.in,
+.source.js .keyword.operator.of,
+.source.js .keyword.operator.instanceof,
+.source.js .keyword.operator.new,
+.source.js .keyword.operator.typeof,
+.source.js .keyword.operator.void {
+  color: #a626a4;
+}
+.source.json .meta.structure.dictionary.json > .string.quoted.json {
+  color: #e45649;
+}
+.source.json .meta.structure.dictionary.json > .string.quoted.json > .punctuation.string {
+  color: #e45649;
+}
+.source.json .meta.structure.dictionary.json > .value.json > .string.quoted.json,
+.source.json .meta.structure.array.json > .value.json > .string.quoted.json,
+.source.json .meta.structure.dictionary.json > .value.json > .string.quoted.json > .punctuation,
+.source.json .meta.structure.array.json > .value.json > .string.quoted.json > .punctuation {
+  color: #50a14f;
+}
+.source.json .meta.structure.dictionary.json > .constant.language.json,
+.source.json .meta.structure.array.json > .constant.language.json {
+  color: #0184bc;
+}
+.source.ruby .constant.other.symbol > .punctuation {
+  color: inherit;
+}
+.source.python .keyword.operator.logical.python {
+  color: #a626a4;
+}
+.source.python .variable.parameter {
+  color: #986801;
+}
+</style>
+  </head>
+  <body class='markdown-preview' data-use-github-style><h1 id="awesome-gank-io">awesome-gank.io</h1>
+<blockquote>
+<p>The repository is  used to collect the awesome code of <a href="http://gank.io/">gank.io</a><img class="emoji" title=":heart_eyes:" alt="heart_eyes" src="C:\Users\Administrator\AppData\Local\atom\app-1.8.0\resources\app.asar\node_modules\roaster\node_modules\emoji-images\pngs/heart_eyes.png" height="20">.Talk is cheap,show you the code<img class="emoji" title=":smiley:" alt="smiley" src="C:\Users\Administrator\AppData\Local\atom\app-1.8.0\resources\app.asar\node_modules\roaster\node_modules\emoji-images\pngs/smiley.png" height="20">.</p>
+</blockquote>
+<h1 id="catalog">Catalog</h1>
+<ul>
+<li><a href="#Android">Android</a></li>
+<li><a href="#iOS">iOS</a></li>
+<li><a href="#React-Native">React-Native</a></li>
+<li><a href="#Other">Other</a></li>
+</ul>
+<h2 id="-a-name-android-a-android"><a name="Android"></a>Android</h2>
+<p><strong>Meizhi</strong></p>
+<blockquote>
+<p>gank.io unofficial client, RxJava &amp; Retrofit</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/drakeet/Meizhi">https://github.com/drakeet/Meizhi</a></li>
+<li>Developer：<a href="https://github.com/drakeet">@drakeet</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android1.png" alt="screenshot" title="screenshot" width="270" height="486">
+<img src="J:\awesome-gank.io\img\gank_android2.jpg" alt="screenshot" title="screenshot" width="270" height="486"></p>
+<p><strong>GanK</strong></p>
+<blockquote>
+<p>一款优雅的干货集中营android客户端，实现了沉浸式状态栏，无缝切换换肤,带3D感的侧滑菜单</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/dongjunkun/GanK">https://github.com/dongjunkun/GanK</a></li>
+<li>Developer：<a href="https://github.com/dongjunkun">@dongjunkun</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android3.png" width="600" height="486"></p>
+<p><strong>gank</strong></p>
+<blockquote>
+<p>gank.io unofficial client - RxJava、RxAndroid、Retrofit2 &amp; MVP</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/xybCoder/gank">https://github.com/xybCoder/gank</a></li>
+<li>Developer：<a href="https://github.com/xybCoder">@xybCoder</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android5.jpg" width="270" height="486">
+<img src="J:\awesome-gank.io\img\gank_android6.jpg" width="270" height="486"></p>
+<p><strong>Gank干货集中营</strong></p>
+<blockquote>
+<p>Gank干货集中营Android客户端</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/GcsSloop/Gank">https://github.com/GcsSloop/Gank</a></li>
+<li>Developer：<a href="https://github.com/GcsSloop">@GcsSloop</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android7.jpeg " width="600" height="500"></p>
+<p><strong>GankDaily</strong></p>
+<blockquote>
+<p>A application used to show technical information in every working days, use MVP pattern.</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/maoruibin/GankDaily">https://github.com/maoruibin/GankDaily</a></li>
+<li>Developer：<a href="https://github.com/maoruibin">@maoruibin</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android8.png"></p>
+<p><strong>馒头先生</strong></p>
+<blockquote>
+<p>On the importance of taste <a href="http://www.oxo.ooo">http://www.oxo.ooo</a></p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/oxoooo/mr-mantou-android">https://github.com/oxoooo/mr-mantou-android</a></li>
+<li>Developer：<a href="https://github.com/oxoooo">@oxoooo</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android9.jpg" width="600" height="250"></p>
+<p><strong>EasyGank</strong></p>
+<blockquote>
+<p>The project build framework based on the Rx series and MVP pattern</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/CaMnter/EasyGank">https://github.com/CaMnter/EasyGank</a></li>
+<li>Developer：<a href="https://github.com/CaMnter">@CaMnter</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android10.jpeg" width="300" height="486"> <img src="J:\awesome-gank.io\img\gank_android11.jpeg" width="300" height="486"></p>
+<p><strong>GankGirl</strong></p>
+<blockquote>
+<p>RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技术干货等。</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/gaolonglong/GankGirl">https://github.com/gaolonglong/GankGirl</a></li>
+<li>Developer：<a href="https://github.com/gaolonglong">@gaolonglong</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android12.gif"></p>
+<p><strong>GankMM</strong></p>
+<blockquote>
+<p>（Material Design &amp; MVP &amp; Retrofit + OKHttp &amp; RecyclerView ...）Gank.io Android客户端</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/maning0303/GankMM">https://github.com/maning0303/GankMM</a></li>
+<li>Developer：<a href="https://github.com/maning0303">@maning0303</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android13.jpg">  <img src="J:\awesome-gank.io\img\gank_android14.jpg"></p>
+<p><strong>GanHuoIO</strong></p>
+<blockquote>
+<p>基于Gank.IO提供的API的第三方客户端，风格上是基于Material Design的，项目中覆盖了MVP、RxJava、第三方登录以及很多第三方库的使用。App可以及时的查看gank.io的最新更新，还有可以很方便的对信息进行分类查看</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/burgessjp/GanHuoIO">https://github.com/burgessjp/GanHuoIO</a></li>
+<li>Developer：<a href="https://github.com/burgessjp">@burgessjp</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android15.jpeg" width="300" height="486"></p>
+<p><strong>RealStuff</strong></p>
+<blockquote>
+<p>一个看妹纸与开发资讯的Android APP，具有自动缓存、清理缓存、分享、搜索与添加收藏的功能</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/IvorHu/RealStuff">https://github.com/IvorHu/RealStuff</a></li>
+<li>Developer：<a href="https://github.com/IvorHu">@IvorHu</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android17.png" width="300" height="486"></p>
+<p><strong>Meizi</strong></p>
+<blockquote>
+<p>每天更新一张精选妹纸图片，所以叫每日一妹纸（一脸绅士(๑•̀ㅂ•́) ✧）</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/SparkYuan/Meizi">https://github.com/SparkYuan/Meizi</a></li>
+<li>Developer：<a href="https://github.com/SparkYuan">@SparkYuan</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android20.png" width="270" height="486">  <img src="J:\awesome-gank.io\img\gank_android21.png" width="270" height="486"></p>
+<p><strong>GankLock</strong></p>
+<blockquote>
+<p>GankLock是一款每日提供程序猿干货的锁屏app。</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/wavever/GankLock">https://github.com/wavever/GankLock</a></li>
+<li>Developer：<a href="https://github.com/waveve">@wavever</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android22.jpeg">  <img src="J:\awesome-gank.io\img\gank_android23.jpeg"></p>
+<p><strong>Gank4Android(Groovy)</strong></p>
+<blockquote>
+<p>使用Groovy开发的Gank.IO Android客户端,遵循Google Material Design设计原则</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/zzhoujay/Gank4Android">https://github.com/zzhoujay/Gank4Android</a></li>
+<li>Developer：<a href="https://github.com/zzhoujay">@zzhoujay</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android24.jpeg">  <img src="J:\awesome-gank.io\img\gank_android25.jpeg"></p>
+<p><strong>Gank.io-for-Kotlin-Android(Kotlin)</strong></p>
+<blockquote>
+<p>一个 Kotlin 开发的 Gank.io 客户端</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/YeungKC/Gank.io-for-Kotlin-Android">https://github.com/YeungKC/Gank.io-for-Kotlin-Android</a></li>
+<li>Developer：<a href="https://github.com/YeungKC">@YeungKC</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android26.png" width="300" height="486"></p>
+<p><strong>DailyGank(Kotlin)</strong></p>
+<blockquote>
+<p>每日干货，Gank.io Android客户端，使用Kotlin开发</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/zzhoujay/DailyGank">https://github.com/zzhoujay/DailyGank</a></li>
+<li>Developer：<a href="https://github.com/zzhoujay">@zzhoujay</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_android27.png" width="300" height="486"> <img src="J:\awesome-gank.io\img\gank_android28.png" width="300" height="486"></p>
+<h2 id="-a-name-ios-a-ios"><a name="iOS"></a>iOS</h2>
+<p><strong>GanHuoCode(Swift)</strong></p>
+<blockquote>
+<p>干货集中营的第三方iOS客户端，已在AppStore上架</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/tripleCC/GanHuoCode">https://github.com/tripleCC/GanHuoCode</a></li>
+<li>Developer：<a href="https://github.com/tripleCC">@tripleCC</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_ios29.png"> <img src="J:\awesome-gank.io\img\gank_ios30.png"></p>
+<p><strong>Gank.lu(Swift)</strong></p>
+<blockquote>
+<p>gank.io iOS客户端</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/Panl/Gank.lu">https://github.com/Panl/Gank.lu</a></li>
+<li>Developer：<a href="https://github.com/Panl">@Panl</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_ios31.png"></p>
+<p><strong>Gank-for-Mac(Swift)</strong></p>
+<blockquote>
+<p>一个小巧的干货集中营Mac端应用</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/hujiaweibujidao/Gank-for-Mac">https://github.com/hujiaweibujidao/Gank-for-Mac</a></li>
+<li>Developer：<a href="https://github.com/hujiaweibujidao">@hujiaweibujidao</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_ios42.png" width="700" height="350"></p>
+<p><strong>iOSGank(Swift)</strong></p>
+<blockquote>
+<p>ios client for gank.io (已上架,现在版本2.0)</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/teddylong/iOSGank">https://github.com/teddylong/iOSGank</a></li>
+<li>Developer：<a href="https://github.com/teddylong">@teddylong</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_ios43.jpeg"> <img src="J:\awesome-gank.io\img\gank_ios44.jpeg"></p>
+<p><strong>beauties(Swift)</strong></p>
+<blockquote>
+<p>It&#39;s a project made while I&#39;m learning Swift. The data is fetched from <a href="http://gank.io/">http://gank.io/</a></p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/liushuaikobe/beauties">https://github.com/liushuaikobe/beauties</a></li>
+<li>Developer：<a href="https://github.com/liushuaikobe">@liushuaikobe</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_ios33.png" width="700" height="500"></p>
+<p><strong>GankMM_iOS(Objective-C)</strong></p>
+<blockquote>
+<p>（iOS版）干货集中营：每天提供一张美女图片和若干程序干货</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/maning0303/GankMM_iOS">https://github.com/maning0303/GankMM_iOS</a></li>
+<li>Developer：<a href="https://github.com/maning0303">@maning0303</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_ios40.png" width="700" height="400"></p>
+<h2 id="-a-name-react-native-a-react-native"><a name="React-Native"></a>React-Native</h2>
+<p><strong>React-Native-Gank</strong></p>
+<blockquote>
+<p>为 Gank.io 做的一个 React-Native 移动客户端</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/Bob1993/React-Native-Gank">https://github.com/Bob1993/React-Native-Gank</a></li>
+<li>Developer：<a href="https://github.com/Bob1993">@Bob1993</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_rn34.jpeg" width="300" height="486"> <img src="J:\awesome-gank.io\img\gank_rn35.jpeg" width="300" height="486"></p>
+<p><strong>GankCamp-React-Native</strong></p>
+<blockquote>
+<p>gank.io (干货集中营) react-native版本，同时支持Android和iOS</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/iwgang/GankCamp-React-Native">https://github.com/iwgang/GankCamp-React-Native</a></li>
+<li>Developer：<a href="https://github.com/iwgang">@iwgang</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_rn36.jpeg" width="300" height="486"> <img src="J:\awesome-gank.io\img\gank_rn37.jpeg" width="300" height="486"></p>
+<p><strong>rn_rank</strong></p>
+<blockquote>
+<p>This is a sharing technology application，is very 因垂思挺。 Written in the react-native framework, both support IOS and Android.</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/zhongjie-chen/rn_rank">https://github.com/zhongjie-chen/rn_rank</a></li>
+<li>Developer：<a href="https://github.com/zhongjie-chen">@zhongjie-chen</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_rn38.png" width="300" height="486"> <img src="J:\awesome-gank.io\img\gank_rn39.png" width="300" height="486"></p>
+<h2 id="-a-name-other-a-other"><a name="Other"></a>Other</h2>
+<p><strong>Gank-Alfred-Workflow</strong></p>
+<blockquote>
+<p>干货搜索器，一个自制的Alfred Workflow，功能是搜索gank.io中的干货</p>
+</blockquote>
+<ul>
+<li>Project Link：<a href="https://github.com/hujiaweibujidao/Gank-Alfred-Workflow">https://github.com/hujiaweibujidao/Gank-Alfred-Workflow</a></li>
+<li>Developer：<a href="https://github.com/hujiaweibujidao">@hujiaweibujidao</a></li>
+</ul>
+<p><img src="J:\awesome-gank.io\img\gank_other45.png" width="600" height="400"></p>
+<h2 id="-a-name-about-a-about"><a name="About"></a>About</h2>
+<ul>
+<li>Email：lingdududu@163.com</li>
+<li>Blog：<a href="http://blog.liangruijun.com/">http://blog.liangruijun.com/</a></li>
+</ul>
+<h2 id="-a-name-license-a-license"><a name="License"></a>License</h2>
+<pre class="editor-colors lang-text"><div class="line"><span class="text plain"><span class="meta paragraph text"><span>Copyright&nbsp;(C)&nbsp;2016&nbsp;ruijun&nbsp;&lt;lingdududu@163.com&gt;</span></span></span></div><div class="line"><span class="text plain"><span>&nbsp;</span></span></div><div class="line"><span class="text plain"><span class="meta paragraph text"><span>Licensed&nbsp;under&nbsp;the&nbsp;Apache&nbsp;License,&nbsp;Version&nbsp;2.0&nbsp;(the&nbsp;&quot;License&quot;);</span></span></span></div><div class="line"><span class="text plain"><span class="meta paragraph text"><span>you&nbsp;may&nbsp;not&nbsp;use&nbsp;this&nbsp;file&nbsp;except&nbsp;in&nbsp;compliance&nbsp;with&nbsp;the&nbsp;License.</span></span></span></div><div class="line"><span class="text plain"><span class="meta paragraph text"><span>You&nbsp;may&nbsp;obtain&nbsp;a&nbsp;copy&nbsp;of&nbsp;the&nbsp;License&nbsp;at</span></span></span></div><div class="line"><span class="text plain"><span>&nbsp;</span></span></div><div class="line"><span class="text plain"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="meta paragraph text"><span class="markup underline link http hyperlink"><span>http://www.apache.org/licenses/LICENSE-2.0</span></span></span></span></div><div class="line"><span class="text plain"><span>&nbsp;</span></span></div><div class="line"><span class="text plain"><span class="meta paragraph text"><span>Unless&nbsp;required&nbsp;by&nbsp;applicable&nbsp;law&nbsp;or&nbsp;agreed&nbsp;to&nbsp;in&nbsp;writing,&nbsp;software</span></span></span></div><div class="line"><span class="text plain"><span class="meta paragraph text"><span>distributed&nbsp;under&nbsp;the&nbsp;License&nbsp;is&nbsp;distributed&nbsp;on&nbsp;an&nbsp;&quot;AS&nbsp;IS&quot;&nbsp;BASIS,</span></span></span></div><div class="line"><span class="text plain"><span class="meta paragraph text"><span>WITHOUT&nbsp;WARRANTIES&nbsp;OR&nbsp;CONDITIONS&nbsp;OF&nbsp;ANY&nbsp;KIND,&nbsp;either&nbsp;express&nbsp;or&nbsp;implied.</span></span></span></div><div class="line"><span class="text plain"><span class="meta paragraph text"><span>See&nbsp;the&nbsp;License&nbsp;for&nbsp;the&nbsp;specific&nbsp;language&nbsp;governing&nbsp;permissions&nbsp;and</span></span></span></div><div class="line"><span class="text plain"><span class="meta paragraph text"><span>limitations&nbsp;under&nbsp;the&nbsp;License.</span></span></span></div></pre></body>
+</html>
