@@ -224,6 +224,7 @@
 ## <A NAME="About"></A>About
 * Email：lingdududu@163.com
 * Blog：http://blog.liangruijun.com/
+* Zhihu：https://www.zhihu.com/people/liangruijun
 
 ## <A NAME="License"></A>License
 ```
