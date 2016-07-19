@@ -106,6 +106,22 @@
 
 <img src="/img/gank_android20.png" width="270" height="486"/>  <img src="/img/gank_android21.png" width="270" height="486"/>
 
+**coderfun**
+> 每天分享几篇技术干货，一张精选妹纸图，一个有趣的休息视频，在有趣的时刻做有趣的事情
+
+* Project Link：https://github.com/hugeterry/coderfun
+* Developer：[@hugeterry](https://github.com/hugeterry)
+
+<img src="/img/gank_android40.jpg" width="270" height="486"/>  <img src="/img/gank_android41.jpg" width="270" height="486"/>
+
+**PrettyGirls**
+> 一个基于MVP+Retrofit+RxJava+MaterialDesign和gank.io的MeiZhi客户端
+
+* Project Link：https://github.com/PleaseCallMeCoder/PrettyGirls
+* Developer：[@PleaseCallMeCoder](https://github.com/PleaseCallMeCoder)
+
+<img src="/img/gank_android42.jpg" width="270" height="486"/>  <img src="/img/gank_android43.png" width="270" height="486"/>
+
 **GankLock**
 > GankLock是一款每日提供程序猿干货的锁屏app。
 
