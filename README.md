@@ -131,6 +131,14 @@
 
 <img src="/img/gank_android44.jpg" width="270" height="486"/>  <img src="/img/gank_android45.jpg" width="270" height="486"/>
 
+**Meizhi & Gank.io**
+> A Gank Client develop using MVP and Dagger 2 
+
+* Project Link：https://github.com/chkfung/MeizhiGank
+* Developer：[@Chkfung](https://github.com/ChkFung)
+
+<img src="/img/gank_android46.gif" width="270" height="486"/>  <img src="/img/gank_android47.gif" width="270" height="486"/>
+
 **GankLock**
 > GankLock是一款每日提供程序猿干货的锁屏app。
 
