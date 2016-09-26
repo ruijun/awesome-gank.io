@@ -6,6 +6,7 @@
 * [Android](#Android)
 * [iOS](#iOS)
 * [React-Native](#React-Native)
+* [wxapp](#wxapp)
 * [Other](#Other)
 
 ## <A NAME="Android"></A>Android
@@ -244,6 +245,16 @@
 * Developer：[@zhongjie-chen](https://github.com/zhongjie-chen)
 
 <img src="/img/gank_rn38.png" width="300" height="486"/> <img src="/img/gank_rn39.png" width="300" height="486"/>
+
+## <A NAME="wxapp"></A>wxapp
+
+**wechat-weapp-gank**
+> 微信小程序版Gank客户端
+
+* Project Link：https://github.com/lypeer/wechat-weapp-gank
+* Developer：[@lypeer](https://github.com/lypeer)
+
+<img src="https://github.com/lypeer/wechat-weapp-gank/blob/master/gif/weapp.gif"/>
 
 ## <A NAME="Other"></A>Other
 **Gank-Alfred-Workflow**
