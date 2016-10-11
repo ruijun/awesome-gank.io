@@ -181,6 +181,15 @@
 <img src="https://github.com/a1018875550/Gank.io/raw/master/art/img2.jpg" width="300" height="486"/>
 <img src="https://github.com/a1018875550/Gank.io/raw/master/art/img3.jpg" width="300" height="486"/>
 
+**Gank.Kotlin**
+> Gank.io(干货集中营)的八百个客户端之一，这次的不同之处在于：主要开发语言为Kotlin。 当然，还有标配的MVP模式、以及RxJava、Retrofit、ButterKnife等。  
+——功能比较简单，撸这个客户端主要目的是学习，所以有很多地方可能不是很成熟，欢迎大家一起交流。
+
+* Project Link：https://github.com/barryhappy/Gank.Kotlin
+* Developer：[@barryhappy](https://github.com/barryhappy)
+
+<img src="https://github.com/barryhappy/Gank.Kotlin/raw/master/imgs/app_home.png"/>
+<img src="https://github.com/barryhappy/Gank.Kotlin/raw/master/imgs/app_home.gif"  width="240" height="432"/>
 
 ## <A NAME="iOS"></A>iOS
 **GanHuoCode(Swift)**
@@ -296,3 +305,5 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+
