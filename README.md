@@ -188,7 +188,7 @@
 * Project Link：https://github.com/barryhappy/Gank.Kotlin
 * Developer：[@barryhappy](https://github.com/barryhappy)
 
-<img src="https://github.com/barryhappy/Gank.Kotlin/raw/master/imgs/app_home.png"/>
+<img src="https://github.com/barryhappy/Gank.Kotlin/raw/master/imgs/app_home.png" width="240" height="432"/>
 <img src="https://github.com/barryhappy/Gank.Kotlin/raw/master/imgs/app_home.gif"  width="240" height="432"/>
 
 ## <A NAME="iOS"></A>iOS
