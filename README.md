@@ -290,6 +290,11 @@
 * Zhihu：https://www.zhihu.com/people/liangruijun
 
 ## <A NAME="License"></A>License
+**IGank**
+> 一个分享Android、IOS、前端开发技术及精选妹子图片的Android APP。
+* Project Link：https://github.com/LehmanHe/IGank
+* Developer：[@LehmanHe](https://github.com/LehmanHe)
+
 ```
 Copyright (C) 2016 ruijun <lingdududu@163.com>
 
