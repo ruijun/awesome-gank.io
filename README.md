@@ -42,7 +42,7 @@
     
     <meta name="pjax-timeout" content="1000">
     
-    <meta name="request-id" content="6EB842D0:3011:2654BDB:58514EC7" data-pjax-transient>
+    <meta name="request-id" content="6EB842D0:3011:2667E36:58514FE2" data-pjax-transient>
 
     <meta name="msapplication-TileImage" content="/windows-tile.png">
     <meta name="msapplication-TileColor" content="#ffffff">
@@ -52,7 +52,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="6EB842D0:3011:2654BDB:58514EC7" name="octolytics-dimension-request_id" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="6EB842D0:3011:2667E36:58514FE2" name="octolytics-dimension-request_id" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -65,14 +65,14 @@
     <meta name="user-login" content="">
 
         <meta name="expected-hostname" content="github.com">
-      <meta name="js-proxy-site-detection-payload" content="MGFlMzlmMTE1NzVlMjk4YmU4NmQ0NTJmYzg0NjE2OWNkMWNiMjNlOTc3MzBmMGI1NmI0NGY5NGE3Yjg1YTVkNHx7InJlbW90ZV9hZGRyZXNzIjoiMTEwLjE4NC42Ni4yMDgiLCJyZXF1ZXN0X2lkIjoiNkVCODQyRDA6MzAxMToyNjU0QkRCOjU4NTE0RUM3IiwidGltZXN0YW1wIjoxNDgxNzIzNTkyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="NjAwNTEzYThlYzZjNTg2OTdjYWU1NjQ1MzkwNjdmMWNkZTdiMzg4YjA3OTNhYTI3MjZkMTY1NTU4YWMyMDE2NHx7InJlbW90ZV9hZGRyZXNzIjoiMTEwLjE4NC42Ni4yMDgiLCJyZXF1ZXN0X2lkIjoiNkVCODQyRDA6MzAxMToyNjY3RTM2OjU4NTE0RkUyIiwidGltZXN0YW1wIjoxNDgxNzIzODc4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
 
       <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#000000">
       <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
 
-    <meta name="html-safe-nonce" content="8dec7069d81df460fabc39ee2887cd7a14b4635f">
-    <meta content="191e387386e8484a947bb18f2143482961339f49" name="form-nonce" />
+    <meta name="html-safe-nonce" content="9b77a237d83cac44d92362edaa6b53a980c6de28">
+    <meta content="6c4c886ff766e9a2992835983bfabbf0d815a8be" name="form-nonce" />
 
     <meta http-equiv="x-pjax-version" content="2a6dd3960e1a9d54c08f13da013baf5a">
     
@@ -97,7 +97,7 @@
     
     <div class="unsupported-browser">
   <div class="container clearfix">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/site/dismiss_unsupported_browser" data-form-nonce="191e387386e8484a947bb18f2143482961339f49" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="rhEJ9I9yi+AlaHwOkBkTk6uTSuGWKwaBLCAWvrqnDzB57Etx8IqIBT/knJObK0qwbMBT9VI+Zn6M3rFlou9xdg==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/site/dismiss_unsupported_browser" data-form-nonce="6c4c886ff766e9a2992835983bfabbf0d815a8be" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Q6FHORBcDWdG4xEJai/mYdZ/VtF7jr7SYMXHzibmotsJLJs/T4obPS05WP0tzxnzdverJMUhZEeQxyYldt1MTQ==" /></div>
       <button type="submit" class="btn btn-danger">Ignore</button>
 </form>    <a href="https://help.github.com/articles/supported-browsers" class="btn">Learn more</a>
 
@@ -515,7 +515,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2016 <span title="0.05552s from github-fe153-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2016 <span title="0.05242s from github-fe-1e914f7.cp1-iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
