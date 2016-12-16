@@ -192,7 +192,7 @@
 <img src="https://github.com/barryhappy/Gank.Kotlin/raw/master/imgs/app_home.gif"  width="240" height="432"/>
 
 **GankS**
-> 又是一款漂亮的Gank客户端，RxJava+Retrofit、Glide图片加载、收藏保存、主题切换等标配不用说、相对其他的来说项目会简单一些，希望大家能够喜欢，能在我的项目中学到东西，当然不好的地方也欢迎指正issue ^_^。
+> 又是一款漂亮的Gank客户端，RxJava+Retrofit、Glide图片加载、收藏保存、主题切换等标配不用说，相对其他的来说项目会简单一些，希望大家能够喜欢，能在我的项目中学到东西，当然不好的地方也欢迎指正issue ^_^。
 
 * Project Link：https://github.com/ahmclishihao/gankS
 * Developer：[@ahmclishihao](https://github.com/ahmclishihao)
