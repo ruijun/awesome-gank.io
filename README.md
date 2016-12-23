@@ -200,6 +200,15 @@
 <img src="https://github.com/ahmclishihao/gankS/raw/master/screenshot/theme.png" width="240" height="432"/>
 <img src="https://github.com/ahmclishihao/gankS/raw/master/screenshot/pics.png"  width="240" height="432"/>
 
+**Gank.io**
+> 一款精致的gankio客户端，日夜主题，收藏，MVVM，数据恢复等，用到了时下热门的框架：热更新框架Tinker，Rxjava，RxAndorid，图片框架fresco，缓存框架，数据库框架 ,还用到了自己的一款开源权限管理工具RxPermission，麻雀虽小但是该有的东西都有了。
+
+* Project Link：https://github.com/348476129/gank.io-with-MVVM
+* Developer：[@348476129](https://github.com/348476129)
+
+<img src="/img/gank_android50.jpg" width="462" height="335"/>
+<img src="/img/gank_android51.jpg" width="462" height="335"/>
+
 ## <A NAME="iOS"></A>iOS
 **GanHuoCode(Swift)**
 > 干货集中营的第三方iOS客户端，已在AppStore上架
