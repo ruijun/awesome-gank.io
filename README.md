@@ -209,6 +209,15 @@
 <img src="/img/gank_android50.jpg" width="462" height="335"/>
 <img src="/img/gank_android51.jpg" width="462" height="335"/>
 
+
+**有干货**
+> 体验别具一格的 Gank.io Android 客户端
+
+* Project Link：https://github.com/Bakumon/UGank
+* Developer：[@Bakumon](https://github.com/Bakumon)
+
+<img src="/img/gank_android52.png"/>
+
 ## <A NAME="iOS"></A>iOS
 **GanHuoCode(Swift)**
 > 干货集中营的第三方iOS客户端，已在AppStore上架
