@@ -218,6 +218,14 @@
 
 <img src="/img/gank_android52.png"/>
 
+**EasyMvp**
+> Rxjava+Retrofit+Greendao 简单的MVP  Android 客户端
+
+* Project Link：https://github.com/DingMouRen/EasyMvp
+* Developer：[@DingMouRen](https://github.com/DingMouRen)
+
+<img src="/img/gank_android53.png"/>
+
 ## <A NAME="iOS"></A>iOS
 **GanHuoCode(Swift)**
 > 干货集中营的第三方iOS客户端，已在AppStore上架
