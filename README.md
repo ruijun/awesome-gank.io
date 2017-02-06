@@ -226,6 +226,18 @@
 
 <img src="/img/gank_android53.png"/>
 
+**GankTouTiao**
+> 每天更新技术干货，美女图片，休息视频，并实现推荐干货，收藏，历史记录功能
+* Project Link：https://github.com/heqiangflytosky/GankTouTiao
+* Developer：[@heqiangflytosky](https://github.com/heqiangflytosky)
+
+<img src="https://github.com/heqiangflytosky/GankTouTiao/raw/master/img/GankTouTiao.gif"/>
+
+**IGank**
+> 一个分享Android、IOS、前端开发技术及精选妹子图片的Android APP。
+* Project Link：https://github.com/LehmanHe/IGank
+* Developer：[@LehmanHe](https://github.com/LehmanHe)
+
 ## <A NAME="iOS"></A>iOS
 **GanHuoCode(Swift)**
 > 干货集中营的第三方iOS客户端，已在AppStore上架
@@ -345,18 +357,6 @@
 * Zhihu：https://www.zhihu.com/people/liangruijun
 
 ## <A NAME="License"></A>License
-**GankTouTiao**
-> 每天更新技术干货，美女图片，休息视频，并实现推荐干货，收藏，历史记录功能
-* Project Link：https://github.com/heqiangflytosky/GankTouTiao
-* Developer：[@heqiangflytosky](https://github.com/heqiangflytosky)
-
-<img src="https://github.com/heqiangflytosky/GankTouTiao/raw/master/img/GankTouTiao.gif"/>
-
-**IGank**
-> 一个分享Android、IOS、前端开发技术及精选妹子图片的Android APP。
-* Project Link：https://github.com/LehmanHe/IGank
-* Developer：[@LehmanHe](https://github.com/LehmanHe)
-
 ```
 Copyright (C) 2016 ruijun <lingdududu@163.com>
 
