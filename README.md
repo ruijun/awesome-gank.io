@@ -238,6 +238,16 @@
 * Project Link：https://github.com/LehmanHe/IGank
 * Developer：[@LehmanHe](https://github.com/LehmanHe)
 
+
+**干货分享(GankShare)**
+>Material design风格和MVP结合的 gank.io非官方客户端(Rxjava+Retrofit+Butterknife & MVP)
+
+* Project Link：https://github.com/PassersHowe/GankShare
+* Developer：[@PassersHowe](https://github.com/PassersHowe)
+
+<img src="/img/gank_android54.png" width="300" height="486"/> <img src="/img/gank_android55.png" width="300" height="486"/>
+
+
 ## <A NAME="iOS"></A>iOS
 **GanHuoCode(Swift)**
 > 干货集中营的第三方iOS客户端，已在AppStore上架
