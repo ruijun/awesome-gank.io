@@ -254,8 +254,8 @@
 * Project Link：https://github.com/luckylukezl/Gank.io
 * Developer：[@luckylukezl](https://github.com/luckylukezl)
 
-<img src="/img/gank_android56.png" width="216" height="384"/> <img src="/img/gank_android57.png" width="216" height="384"/>
-<img src="/img/gank_android57.png" width="216" height="384"/>
+<img src="/img/gank_android56.jpg" width="216" height="384"/> <img src="/img/gank_android57.jpg" width="216" height="384"/>
+<img src="/img/gank_android57.jpg" width="216" height="384"/>
 
 
 ## <A NAME="iOS"></A>iOS
