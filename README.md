@@ -252,7 +252,7 @@
 >基于 干货集中营 API 文档 编写，基于MVP架构，集合各种优秀依赖库。
 
 * Project Link：https://github.com/luckylukezl/Gank.io
-* Developer：[@PassersHowe](https://github.com/luckylukezl)
+* Developer：[@luckylukezl](https://github.com/luckylukezl)
 
 <img src="/img/gank_android56.png" width="216" height="384"/> <img src="/img/gank_android57.png" width="216" height="384"/>
 <img src="/img/gank_android57.png" width="216" height="384"/>
