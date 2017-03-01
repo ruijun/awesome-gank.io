@@ -255,7 +255,7 @@
 * Developer：[@luckylukezl](https://github.com/luckylukezl)
 
 <img src="/img/gank_android56.jpg" width="216" height="384"/> <img src="/img/gank_android57.jpg" width="216" height="384"/>
-<img src="/img/gank_android57.jpg" width="216" height="384"/>
+<img src="/img/gank_android58.jpg" width="216" height="384"/>
 
 
 ## <A NAME="iOS"></A>iOS
