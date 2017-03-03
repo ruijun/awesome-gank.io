@@ -248,6 +248,16 @@
 <img src="/img/gank_android54.png" width="300" height="486"/> <img src="/img/gank_android55.png" width="300" height="486"/>
 
 
+**干货App(Gank.io)**
+>基于 干货集中营 API 文档 编写，基于MVP架构，集合各种优秀依赖库。
+
+* Project Link：https://github.com/luckylukezl/Gank.io
+* Developer：[@luckylukezl](https://github.com/luckylukezl)
+
+<img src="/img/gank_android56.jpg" width="216" height="384"/> <img src="/img/gank_android57.jpg" width="216" height="384"/>
+<img src="/img/gank_android58.jpg" width="216" height="384"/>
+
+
 ## <A NAME="iOS"></A>iOS
 **GanHuoCode(Swift)**
 > 干货集中营的第三方iOS客户端，已在AppStore上架
