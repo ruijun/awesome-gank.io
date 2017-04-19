@@ -42,7 +42,7 @@
 * Project Link：https://github.com/GcsSloop/Gank
 * Developer：[@GcsSloop](https://github.com/GcsSloop)
 
-<img src="/img/gank_android7.jpeg " width="600" height="500"//>
+<img src="/img/gank_android7.jpeg " width="600" height="500"/>
 
 **GankDaily**
 > A application used to show technical information in every working days, use MVP pattern.
