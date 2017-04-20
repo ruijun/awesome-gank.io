@@ -10,16 +10,6 @@
 * [Other](#Other)
 
 ## <A NAME="Android"></A>Android
-**AiYaGirl**
-> gank.io unofficial client, RxJava & Retrofit & RxJava & MVP
-
-* Project Link：https://github.com/nanchen2251/AiYaGirl
-* Developer：[@nanchen](https://github.com/nanchen2251)
-
-<img src="/img/AiYaGirl3.gif" alt="screenshot" title="screenshot" width="270" height="486" />
-<img src="/img/AiYaGirl2.jpg" alt="screenshot" title="screenshot" width="270" height="486" />
-<img src="/img/AiYaGirl3.jpg" alt="screenshot" title="screenshot" width="270" height="486" />
-
 
 **Meizhi**
 > gank.io unofficial client, RxJava & Retrofit
@@ -277,6 +267,16 @@
 
 <img src="/img/gank_android59.png" width="198" height="352"/>
 <img src="/img/gank_android60.png" width="198" height="352"/>
+
+**AiYaGirl**
+> gank.io unofficial client, RxJava & Retrofit & RxJava & MVP
+
+* Project Link：https://github.com/nanchen2251/AiYaGirl
+* Developer：[@nanchen](https://github.com/nanchen2251)
+
+<img src="/img/AiYaGirl3.gif" alt="screenshot" title="screenshot" width="270" height="486" />
+<img src="/img/AiYaGirl2.jpg" alt="screenshot" title="screenshot" width="270" height="486" />
+<img src="/img/AiYaGirl3.jpg" alt="screenshot" title="screenshot" width="270" height="486" />
 
 
 ## <A NAME="iOS"></A>iOS
