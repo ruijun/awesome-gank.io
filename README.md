@@ -274,9 +274,9 @@
 * Project Link：https://github.com/nanchen2251/AiYaGirl
 * Developer：[@nanchen](https://github.com/nanchen2251)
 
-<img src="/img/AiYaGirl3.gif" alt="screenshot" title="screenshot" width="270" height="486" />
-<img src="/img/AiYaGirl2.jpg" alt="screenshot" title="screenshot" width="270" height="486" />
-<img src="/img/AiYaGirl3.jpg" alt="screenshot" title="screenshot" width="270" height="486" />
+<img src="/img/gank_android63.gif" alt="screenshot" title="screenshot" width="270" height="486" />
+<img src="/img/gank_android61.jpg" alt="screenshot" title="screenshot" width="270" height="486" />
+<img src="/img/gank_android62.jpg" alt="screenshot" title="screenshot" width="270" height="486" />
 
 
 ## <A NAME="iOS"></A>iOS
