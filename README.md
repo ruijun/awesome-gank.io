@@ -184,7 +184,7 @@
 
 **Gank.Kotlin**
 > Gank.io(干货集中营)的八百个客户端之一，这次的不同之处在于：主要开发语言为Kotlin。 当然，还有标配的MVP模式、以及RxJava、Retrofit、ButterKnife等。  
-——功能比较简单，撸这个客户端主要目的是学习，所以有很多地方可能不是很成熟，欢迎大家一起交流。
+> ——功能比较简单，撸这个客户端主要目的是学习，所以有很多地方可能不是很成熟，欢迎大家一起交流。
 
 * Project Link：https://github.com/barryhappy/Gank.Kotlin
 * Developer：[@barryhappy](https://github.com/barryhappy)
@@ -278,8 +278,20 @@
 <img src="/img/gank_android61.jpg" alt="screenshot" title="screenshot" width="270" height="486" />
 <img src="/img/gank_android62.jpg" alt="screenshot" title="screenshot" width="270" height="486" />
 
+**Gank_Kotlin**
+
+> 一个使用Kotlin编写的Gank客户端
+
++ Project Link：[https://github.com/fccaikai/Gan_Kotlin](https://github.com/fccaikai/Gan_Kotlin)
+
++ Developer：[caikai](https://github.com/fccaikai)
+
+  ![](https://ws4.sinaimg.cn/large/006tNc79gy1fgbd9yzfe5j30rx0nqjvh.jpg)
+
+  ![](https://ws2.sinaimg.cn/large/006tNbRwgy1fgbd141pxdj30rx0nqae8.jpg)
 
 ## <A NAME="iOS"></A>iOS
+
 **GanHuoCode(Swift)**
 > 干货集中营的第三方iOS客户端，已在AppStore上架
 
