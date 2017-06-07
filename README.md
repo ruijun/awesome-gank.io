@@ -286,9 +286,8 @@
 
 + Developer：[caikai](https://github.com/fccaikai)
 
-  ![](https://ws4.sinaimg.cn/large/006tNc79gy1fgbd9yzfe5j30rx0nqjvh.jpg)
-
-  ![](https://ws2.sinaimg.cn/large/006tNbRwgy1fgbd141pxdj30rx0nqae8.jpg)
+ <img src="/img/gank_android64.png" alt="screenshot" title="screenshot" width="270" height="486" />
+<img src="/img/gank_android65. png" alt="screenshot" title="screenshot" width="270" height="486" />
 
 ## <A NAME="iOS"></A>iOS
 
