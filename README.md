@@ -290,6 +290,14 @@
  
 <img src="/img/gank_android65.png" alt="screenshot" title="screenshot" width="502" height="477" />
 
+**干货集中营客户端**
+> 简洁的客户端，有今日推荐，分类浏览，妹子图，还有金山词霸每日一句学英语哦！
+
+* Project Link：https://github.com/SirLYC/Android-Gank-Share
+* Developer：[@SirLYC](https://github.com/SirLYC)
+
+<img src="/img/gank_android66.png"/>
+
 ## <A NAME="iOS"></A>iOS
 
 **GanHuoCode(Swift)**
