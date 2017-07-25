@@ -345,7 +345,7 @@
 
 * [App Store 戳这里](https://itunes.apple.com/cn/app/gankee-gan-huo-ji-zhong-ying/id1201113401?mt=8)
 * Project Link：https://github.com/Wildog/Gankee
-* Developer：[@Wildog](https://github.com/Wildog)
+* Developer：[@Wildog](https://github.com/Wildog)    
 
 <img src="https://github.com/Wildog/Gankee/raw/master/screenshots/news.jpg" width="23%">
 <img src="https://github.com/Wildog/Gankee/raw/master/screenshots/category.PNG" width="23%">
@@ -375,7 +375,7 @@
 * Project Link：https://github.com/zhongjie-chen/rn_rank
 * Developer：[@zhongjie-chen](https://github.com/zhongjie-chen)
 
-<img src="/img/gank_rn38.png" width="300" height="486"/> <img src="/img/gank_rn39.png" width="300" height="486"/>
+<img src="/img/gank_rn38.png" width="782" height="665"/> <img src="/img/gank_rn39.png" width="300" height="486"/>
 
 **React-Native-Gank.io**
 > Maybe it's the best friendly gank.io app
@@ -385,8 +385,16 @@
 
 <img src="/img/gank_rn40.png" width="300" height="486"/> <img src="/img/gank_rn41.png" width="300" height="486"/>
 
-## <A NAME="wxapp"></A>wxapp
+**ganguo-react-native**
+> 可以保存妹纸，收藏与分享文章的Gank客户端,适配安卓与iOS
+* Project Link：https://github.com/tmxiong/gank
+* Developer：[@tmxiong](https://github.com/tmxiong)
 
+<img src="/img/gank_rn42.png" width="777" height="660"/> 
+<img src="/img/gank_rn44.png" width="777" height="660"/>
+<img src="/img/gank_rn43.png" width="370" height="660"/><img src="/img/gank_rn45.png" width="370" height="660"/>
+
+## <A NAME="wxapp"></A>wxapp
 **wechat-weapp-gank**
 > 微信小程序版Gank客户端
 
