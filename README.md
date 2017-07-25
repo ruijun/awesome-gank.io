@@ -386,13 +386,15 @@
 <img src="/img/gank_rn40.png" width="300" height="486"/> <img src="/img/gank_rn41.png" width="300" height="486"/>
 
 **ganguo-react-native**
-> 可以保存妹纸，收藏与分享文章的Gank客户端,适配安卓与iOS
+> 基于react-native + redux 的Gank客户端，每日更新美图与干货。可以保存妹纸，收藏与分享文章。适配安卓与iOS
 * Project Link：https://github.com/tmxiong/gank
 * Developer：[@tmxiong](https://github.com/tmxiong)
 
 <img src="/img/gank_rn42.png" width="777" height="660"/> 
-<img src="/img/gank_rn44.png" width="777" height="660"/>
-<img src="/img/gank_rn43.png" width="370" height="660"/><img src="/img/gank_rn45.png" width="370" height="660"/>
+<img src="https://github.com/tmxiong/gank/raw/master/screenshots/home.gif"/>
+<img src="https://github.com/tmxiong/gank/raw/master/screenshots/fuli.gif"/>
+<img src="https://github.com/tmxiong/gank/raw/master/screenshots/mine.gif"/>
+
 
 ## <A NAME="wxapp"></A>wxapp
 **wechat-weapp-gank**
