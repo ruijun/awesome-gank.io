@@ -360,6 +360,16 @@
 <img src="https://github.com/Wildog/Gankee/raw/master/screenshots/search.PNG" width="23%">
 <img src="https://github.com/Wildog/Gankee/raw/master/screenshots/share-extension.jpg" width="23%">
 
+**干货集中营-Gank(Swift)**
+> 用户体验极好的干货集中营 iOS App，已上架，持续更新
+
+* Project Link：https://github.com/yeziahehe/Gank
+* Developer：[@yeziahehe](https://github.com/yeziahehe)
+
+| ![1](img/gank_ios45.png) | ![2](img/gank_ios46.png) | ![3](img/gank_ios47.png) | ![4](img/gank_ios48.png) | ![5](img/gank_ios49.png) |
+| :--: | :--: | :--: | :--: | :--: |
+| 每日干货 | 历史干货 | 分类搜索 | 个人中心 | 提交干货 |
+
 ## <A NAME="React-Native"></A>React-Native
 **React-Native-Gank**
 > 为 Gank.io 做的一个 React-Native 移动客户端
