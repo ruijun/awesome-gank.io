@@ -298,6 +298,20 @@
 
 <img src="/img/gank_android66.png"/>
 
+**干货集中营**
+> 又双叒叕 撸一个干货客户端
+
+* Project Link: [https://github.com/lichenming0516/GankAndroid](https://github.com/lichenming0516/GankAndroid)
+* Developer: [@晨鸣](https://github.com/lichenming0516)
+
+<table><tr>
+<td><img src="https://raw.githubusercontent.com/lichenming0516/GankAndroid/master/img/1.png" width="200"></td>
+<td><img src="https://raw.githubusercontent.com/lichenming0516/GankAndroid/master/img/2.png" width="200"></td>
+<td><img src="https://raw.githubusercontent.com/lichenming0516/GankAndroid/master/img/3.png" width="200"></td>
+</tr></table>
+
+
+
 ## <A NAME="iOS"></A>iOS
 
 **GanHuoCode(Swift)**
