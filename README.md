@@ -149,6 +149,17 @@
 
 <img src="/img/gank_android22.jpeg" />  <img src="/img/gank_android23.jpeg" />
 
+**NewGank**
+> NewGank MVP+Dagger2.android+rxjava+retrofit+Glide  单Activity+多Fragment 
+
+* Project Link：https://github.com/yangxiaobinhaoshuai/NewGank
+* Developer：[@yangxiaobinhaoshuai](https://github.com/yangxiaobinhaoshuai)
+
+<img src="/img/gank_android67.jpg" width="270" height="486" />
+<img src="/img/gank_android68.jpg" width="270" height="486" />
+<img src="/img/gank_android69.jpg" width="270" height="486" />
+<img src="/img/gank_android70.jpg" width="270" height="486" />
+
 **Gank4Android(Groovy)**
 > 使用Groovy开发的Gank.IO Android客户端,遵循Google Material Design设计原则
 
