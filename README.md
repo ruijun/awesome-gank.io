@@ -155,10 +155,9 @@
 * Project Link：https://github.com/yangxiaobinhaoshuai/NewGank
 * Developer：[@yangxiaobinhaoshuai](https://github.com/yangxiaobinhaoshuai)
 
-<img src="/img/gank_android67.jpg" width="270" height="486" />
-<img src="/img/gank_android68.jpg" width="270" height="486" />
-<img src="/img/gank_android69.jpg" width="270" height="486" />
-<img src="/img/gank_android70.jpg" width="270" height="486" />
+<img src="/img/gank_android67.png" width="270" height="486" /> <img src="/img/gank_android68.png" width="270" height="486" />
+<img src="/img/gank_android69.png" width="270" height="486" /> <img src="/img/gank_android70.png" width="270" height="486" />
+
 
 **Gank4Android(Groovy)**
 > 使用Groovy开发的Gank.IO Android客户端,遵循Google Material Design设计原则
