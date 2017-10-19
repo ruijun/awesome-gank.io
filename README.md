@@ -310,6 +310,14 @@
 <td><img src="https://raw.githubusercontent.com/lichenming0516/GankAndroid/master/img/3.png" width="200"></td>
 </tr></table>
 
+**干货集中营 - gank.io**
+> 非官方 Gank Android 客户端. Kotlin 开发, Google Play、酷安 上线, 纯属兴趣开发, 目前很 demo.
+
+* Project Link：https://github.com/ebnbin/android-gank
+* Developer：[@ebnbin](https://github.com/ebnbin)
+
+<img src="/img/gank_android67.png" alt="screenshot" title="screenshot" width="274" height="507" />
+
 
 
 ## <A NAME="iOS"></A>iOS
