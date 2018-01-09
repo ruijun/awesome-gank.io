@@ -7,6 +7,7 @@
 * [iOS](#iOS)
 * [React-Native](#React-Native)
 * [wxapp](#wxapp)
+* [flutter](#flutter)
 * [Other](#Other)
 
 ## <A NAME="Android"></A>Android
@@ -465,6 +466,25 @@
 * Developer：[@lypeer](https://github.com/lypeer)
 
 <img src="https://github.com/lypeer/wechat-weapp-gank/blob/master/gif/weapp.gif"/>
+
+## <A NAME="flutter"></A>flutter
+
+> Flutter Gank App, Support Android & iOS
+* Project Link：https://github.com/saymagic/gank_flutter
+* Developer：[@saymagic](https://github.com/saymagic)
+<div style="text-align: center"><table><tr>
+    <td style="text-align: center">
+<img src="https://github.com/saymagic/gank_flutter/blob/master/screenshots/screenshot_x01.png" height="400">
+</td>
+<td style="text-align: center">
+<img src="https://github.com/saymagic/gank_flutter/blob/master/screenshots/screenshot_x02.png" height="400">
+</td>
+<td style="text-align: center">
+<img src="https://github.com/saymagic/gank_flutter/blob/master/screenshots/screenshot_x03.png" height="400">
+</td>
+</tr>
+</table>
+</div>
 
 ## <A NAME="Other"></A>Other
 **Gank-Alfred-Workflow**
