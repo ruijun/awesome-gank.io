@@ -333,6 +333,14 @@
 
 ## <A NAME="iOS"></A>iOS
 
+**今日干货(OC)**
+> 干货集中营的第三方iOS客户端，现已加入App Store豪华午餐
+
+* Project Link：https://github.com/quanweiwang/Gank.io
+* Developer：[@quanweiwang](https://github.com/quanweiwang/)
+
+<img src="/img/gank_ios29.png" /> <img src="/img/gank_ios30.png" />
+
 **GanHuoCode(Swift)**
 > 干货集中营的第三方iOS客户端，已在AppStore上架
 
