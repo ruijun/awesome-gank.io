@@ -486,6 +486,15 @@
 </table>
 </div>
 
+**Gank Flutter版**
+> 使用Flutter开发的跨平台Gank客户端
+
+* Project Link：https://github.com/oubowu/gank_flutter
+* Developer：[@oubowu](https://github.com/oubowu)
+
+<img src="/img/gank_flutter01.png"/>
+<img src="/img/gank_flutter02.png"/>
+
 ## <A NAME="Other"></A>Other
 **Gank-Alfred-Workflow**
 > 干货搜索器，一个自制的Alfred Workflow，功能是搜索gank.io中的干货
